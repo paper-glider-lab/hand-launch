@@ -16,7 +16,7 @@
 このプロジェクトでは主にハンドランチ，つまり手投げでランチ（発航）するグライダーが中心になると思います．
 
 
-詳しくは[wikiページ](https://github.com/paper-glider-lab/hand-launch/wiki)
+詳しくは[wikiページ](https://github.com/paper-glider-lab/hand-launch/wiki/ハンドランチFFグライダー)
 
 # 2026年3月22日の練習会
 ![T7NX-5fv](https://github.com/user-attachments/assets/7c458192-496a-416a-8756-7c6c153e74eb)
